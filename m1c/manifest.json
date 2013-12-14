@@ -1,0 +1,13 @@
+{
+	"name": "m1c client",
+	"version": "1",
+	"manifest_version": 2,
+	"icons": { "32": "m1c.png" },
+	"app": {
+		"background": {
+			"scripts": ["background.js"]
+		}
+	},
+	"offline_enabled": true,
+	"display_in_launcher": true
+}
