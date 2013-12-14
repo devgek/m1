@@ -8,6 +8,5 @@
 			"scripts": ["background.js"]
 		}
 	},
-	"offline_enabled": true,
-	"display_in_launcher": true
+	"offline_enabled": true
 }
